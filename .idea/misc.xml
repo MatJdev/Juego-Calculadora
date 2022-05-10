@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/drawable/res_no.xml" value="0.2085" />
         <entry key="app/src/main/res/drawable/res_si.xml" value="0.2085" />
         <entry key="app/src/main/res/drawable/splash_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout/activity_formulas.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_opciones.xml" value="0.19610507246376813" />
       </map>
@@ -18,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.23802083333333332" />
+      </ProjectState>
+    </option>
   </component>
 </project>
